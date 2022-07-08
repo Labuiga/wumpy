@@ -1,3 +1,5 @@
+BITACORA FOR PHILOSOPHY
+
 Log acciones realizadas:
 
 - Instalar Ubuntu
@@ -57,6 +59,7 @@ Log acciones realizadas:
 - TO DO:
         
         - código en launch q debería estar en wumpus_v2.py
+        - -c 1 < -c: cheats debería ser un argumento sin parámetro
         - print correcto & easily viewable de los cheats y tablero
         - test profesionales y serios, posible fallo al atacar al wumpus
         - crear mi propio stack en otro proyecto

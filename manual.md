@@ -1,8 +1,10 @@
-0- Como su nombre indica, este es el camino manual, si este falla ir a bitacora.md
+MANUAL FOR DEVS
+
+0- Como su nombre indica, este es el camino manual para devs que permite usar los cheats. users deberían usar readme.md
 
 1- Localizar la carpeta de wumpus
 
-    cd wumpus
+    cd wumpy
 
 2- Ejecutar launch.py con los parámetros deseados.)
     
