@@ -1,0 +1,1 @@
+. p3/bin/activate && python launch.py
